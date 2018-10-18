@@ -1,0 +1,8 @@
+*.DS_Store
+*.ipynb_checkpoints
+venv/
+*.pyc
+build/
+dist/
+node_modules/
+datasets/
